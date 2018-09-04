@@ -3,7 +3,37 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28010.2016
 MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfCanvasDemo", "WpfCanvasDemo\WpfCanvasDemo.csproj", "{D5B0CEF0-AC5E-4B5A-BCA8-0F52642746C0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ControlsDemo", "ControlsDemo\ControlsDemo.csproj", "{436D01FE-66C2-4ECB-B61E-6170A407E41E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OneWayDataBinding", "OneWayDataBinding\OneWayDataBinding.csproj", "{A45BCB5A-08AD-4FCC-BCAC-A52D60B63525}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwoWayDataBinding", "TwoWayDataBinding\TwoWayDataBinding.csproj", "{47E6E374-F6DF-4717-A432-4DF2FAD713B8}"
+EndProject
 Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D5B0CEF0-AC5E-4B5A-BCA8-0F52642746C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5B0CEF0-AC5E-4B5A-BCA8-0F52642746C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5B0CEF0-AC5E-4B5A-BCA8-0F52642746C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5B0CEF0-AC5E-4B5A-BCA8-0F52642746C0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{436D01FE-66C2-4ECB-B61E-6170A407E41E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{436D01FE-66C2-4ECB-B61E-6170A407E41E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{436D01FE-66C2-4ECB-B61E-6170A407E41E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{436D01FE-66C2-4ECB-B61E-6170A407E41E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A45BCB5A-08AD-4FCC-BCAC-A52D60B63525}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A45BCB5A-08AD-4FCC-BCAC-A52D60B63525}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A45BCB5A-08AD-4FCC-BCAC-A52D60B63525}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A45BCB5A-08AD-4FCC-BCAC-A52D60B63525}.Release|Any CPU.Build.0 = Release|Any CPU
+		{47E6E374-F6DF-4717-A432-4DF2FAD713B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47E6E374-F6DF-4717-A432-4DF2FAD713B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47E6E374-F6DF-4717-A432-4DF2FAD713B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47E6E374-F6DF-4717-A432-4DF2FAD713B8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
