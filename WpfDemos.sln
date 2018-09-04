@@ -11,6 +11,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OneWayDataBinding", "OneWay
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwoWayDataBinding", "TwoWayDataBinding\TwoWayDataBinding.csproj", "{47E6E374-F6DF-4717-A432-4DF2FAD713B8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataBindingToLists", "DataBindingToLists\DataBindingToLists.csproj", "{FB6E2656-454D-48A4-BA1D-5EF9988E2CEB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ElementBinding", "ElementBinding\ElementBinding.csproj", "{11A091CE-4375-4CB7-8C48-86F3E0864FE0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +37,14 @@ Global
 		{47E6E374-F6DF-4717-A432-4DF2FAD713B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{47E6E374-F6DF-4717-A432-4DF2FAD713B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{47E6E374-F6DF-4717-A432-4DF2FAD713B8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB6E2656-454D-48A4-BA1D-5EF9988E2CEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB6E2656-454D-48A4-BA1D-5EF9988E2CEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB6E2656-454D-48A4-BA1D-5EF9988E2CEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB6E2656-454D-48A4-BA1D-5EF9988E2CEB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{11A091CE-4375-4CB7-8C48-86F3E0864FE0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11A091CE-4375-4CB7-8C48-86F3E0864FE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11A091CE-4375-4CB7-8C48-86F3E0864FE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11A091CE-4375-4CB7-8C48-86F3E0864FE0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
