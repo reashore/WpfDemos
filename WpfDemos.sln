@@ -29,6 +29,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TabControlDemo", "TabContro
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataGridDemo", "DataGridDemo\DataGridDemo.csproj", "{3DE093D4-97F7-4D82-8C9A-D936A4DBDE5F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TreeViewDemo", "TreeViewDemo\TreeViewDemo.csproj", "{AE2F1EB9-0832-49F0-9C2D-381E3832C437}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +89,10 @@ Global
 		{3DE093D4-97F7-4D82-8C9A-D936A4DBDE5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3DE093D4-97F7-4D82-8C9A-D936A4DBDE5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3DE093D4-97F7-4D82-8C9A-D936A4DBDE5F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AE2F1EB9-0832-49F0-9C2D-381E3832C437}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE2F1EB9-0832-49F0-9C2D-381E3832C437}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE2F1EB9-0832-49F0-9C2D-381E3832C437}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE2F1EB9-0832-49F0-9C2D-381E3832C437}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
