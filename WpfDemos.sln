@@ -33,6 +33,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TreeViewDemo", "TreeViewDem
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StatusBarDemo", "StatusBarDemo\StatusBarDemo.csproj", "{0DB412C0-1932-434E-862A-F11D59F8E94A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MenuDemo", "MenuDemo\MenuDemo.csproj", "{2A0EFD4C-EBCD-4E13-963C-DEEA282E1ADF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -99,6 +101,10 @@ Global
 		{0DB412C0-1932-434E-862A-F11D59F8E94A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0DB412C0-1932-434E-862A-F11D59F8E94A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0DB412C0-1932-434E-862A-F11D59F8E94A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A0EFD4C-EBCD-4E13-963C-DEEA282E1ADF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A0EFD4C-EBCD-4E13-963C-DEEA282E1ADF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A0EFD4C-EBCD-4E13-963C-DEEA282E1ADF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A0EFD4C-EBCD-4E13-963C-DEEA282E1ADF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
