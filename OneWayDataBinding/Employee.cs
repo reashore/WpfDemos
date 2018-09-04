@@ -1,6 +1,5 @@
 ﻿using System.ComponentModel;
 using System.Runtime.CompilerServices;
-using OneWayDataBinding.Annotations;
 
 namespace OneWayDataBinding
 {
@@ -29,16 +28,16 @@ namespace OneWayDataBinding
             }
         }
 
-        public static Employee GetEmployee()
-        {
-            Employee employee = new Employee
-            {
-                Name = "Frank",
-                Title = "CTO"
-            };
+        //public static Employee GetEmployee()
+        //{
+        //    Employee employee = new Employee
+        //    {
+        //        Name = "Frank",
+        //        Title = "CTO"
+        //    };
 
-            return employee;
-        }
+        //    return employee;
+        //}
 
         public event PropertyChangedEventHandler PropertyChanged;
 
